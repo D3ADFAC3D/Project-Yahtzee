@@ -1,0 +1,14 @@
+* {
+  background-color: green;
+}
+
+#showDice,
+#dice {
+  background-color: white;
+}
+
+#dice {
+  border: solid black;
+  height: 100px;
+  width: 100px;
+}
