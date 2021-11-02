@@ -1,2 +1,2 @@
 # Project-Yahtzee
-Test Project Yahtzee van Daan, Collin &amp; Youri
+Project Yahtzee van Daan, Collin &amp; Youri
